@@ -12,7 +12,7 @@
   <img align="center" alt="Consu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Consu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Consu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Consu-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6283/d9db5a6d2c6519c71eb5086bfda4f9b8c16f7916_hq.gif">
+  <img align="right" alt="Consu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
 </div>
   
    ##
