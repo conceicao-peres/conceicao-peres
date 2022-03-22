@@ -1,6 +1,6 @@
-## Hello World!👋
-### Sou a Conceição, no momento, estudante do programa Oracle Next Education (Oracle-ONE) com foco em programação.
-
+## Hello World! Sou a Conceição. 👋
+### No momento estou cursando a trilha de desenvolvimento Front-end da Alura e participando de bootcamps e challenges com foco em programação.
+<br>
 <div align="center">
   <a href="https://github.com/conceicao-peres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conceicao-peres&show_icons=true&theme=Light_high_contrast&include_all_commits=true&count_private=true"/>
