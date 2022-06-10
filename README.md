@@ -1,5 +1,5 @@
 ## Hello World! Sou a Conceição. 👋
-### No momento estou cursando a trilha de desenvolvimento Front-end da Alura e participando de bootcamps e challenges com foco em programação.
+### Atualmente estou cursando trilhas de desenvolvimento e participando de bootcamps como forma de desenvolver habilidades e adquirir experiencia em programação..
 <br>
 <div align="center">
   <a href="https://github.com/conceicao-peres">
