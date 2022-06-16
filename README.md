@@ -21,7 +21,7 @@
   <div> 
   
   <a href="https://www.linkedin.com/in/conceicao-peres-da-silva" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/179/179330.png" target="_blank"></a> 
-  <a href="https://www.github.com/conceicao-peres" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" target="_blank"></a> 
+  <a href="https://conceicao-peres.github.io/Portfolio-Conceicao" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" target="_blank"></a> 
   
 
    ![Snake animation](https://github.com/conceicao-peres/conceicao-peres/blob/output/github-contribution-grid-snake.svg)
