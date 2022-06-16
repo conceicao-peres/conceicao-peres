@@ -1,5 +1,5 @@
 ## Hello World! Sou a Conceição. 👋
-### Atualmente estou cursando trilhas de desenvolvimento e participando de bootcamps como forma de desenvolver habilidades e adquirir experiencia em programação..
+### Sou formada em Sistema de informação, atualmente estou cursando desenvolvimento e participando de bootcamps como forma de desenvolver habilidades e adquirir experiencia em programação.<br> 
 <br>
 <div align="center">
   <a href="https://github.com/conceicao-peres">
@@ -20,9 +20,9 @@
 
   <div> 
   
-  <a href="https://www.linkedin.com/in/conceicao-peres-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.github.com/conceicao-peres" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:conceicao-peres@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/conceicao-peres-da-silva" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/179/179330.png" target="_blank"></a> 
+  <a href="https://www.github.com/conceicao-peres" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" target="_blank"></a> 
+  
 
    ![Snake animation](https://github.com/conceicao-peres/conceicao-peres/blob/output/github-contribution-grid-snake.svg)
 
