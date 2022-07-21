@@ -11,7 +11,8 @@
   <img align="center" alt="Consu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Consu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Consu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Consu-Java" height="40" width="50"src="https://user-images.githubusercontent.com/73192544/167472212-5817e0d1-16ea-4fbc-b401-3f6c59f8de18.png">
+  <img align="center" alt="Consu-React" height="35" width="40" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png">
+
 
   <img align="right" alt="Consu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
 </div>
@@ -28,3 +29,5 @@
 
  
 </div>
+
+
