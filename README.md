@@ -11,7 +11,7 @@
   <img align="center" alt="Consu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Consu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Consu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Consu-React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png">
+  <img align="center" alt="Consu-Angular" height="70" width="60" src="https://t4.ftcdn.net/jpg/02/95/03/85/240_F_295038577_yyg6PAw7aePNxEj7noPWr1RCusUTNJCC.jpg">
 
   <img align="center" alt="Consu-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
 
