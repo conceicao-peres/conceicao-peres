@@ -1,4 +1,4 @@
-## Hello World! Sou a Conceição. 👋
+## Hello World! Sou a Conceição. 👋 
 #### Sou formada em Sistema de informação, atualmente estou cursando desenvolvimento e participando de bootcamps como forma de adquirir habilidades e experiencia em programação.<br>
 <button name="button"> <a href="https://conceicao-peres.github.io/Portfolio-Conceicao" target="_blank">`Portfolio`</a></button>
 <button name="button"> <a href="https://www.linkedin.com/in/conceicao-peres-da-silva" target="_blank">`linkedin`</a></button>
@@ -26,7 +26,7 @@
 <div> 
 
    ![Snake animation](https://github.com/conceicao-peres/conceicao-peres/blob/output/github-contribution-grid-snake.svg)
+   <img width="120" height="150" alt="Consu-img" src="https://user-images.githubusercontent.com/73192544/187662106-3a6cd269-61e8-4167-9af1-6f5e933996dc.png">
 
 </div>
-
 
