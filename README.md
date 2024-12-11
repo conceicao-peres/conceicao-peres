@@ -23,9 +23,5 @@
   
    ##
 
-<div> 
 
-   ![Snake animation](https://github.com/conceicao-peres/conceicao-peres/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
