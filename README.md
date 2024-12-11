@@ -1,5 +1,7 @@
-## Hello World! Sou a Conceição. 👋 
-#### Sou formada em Sistema de informação, atualmente estou cursando desenvolvimento e participando de bootcamps como forma de adquirir habilidades e experiencia em programação.<br>
+### Hello World! Sou a Conceição. 👋 
+##### Formada em Sistema de informação, atuando como analista de soluções Mainframe na Capgemini, desenvolvendo aplicações em linguagem cobol, JCL e banco de dados DB2 para programas CICS e Batch. 
+##### Principais ferramentas: TSO, Hexavision, Control-M e Changeman. 
+##### Interesse: Integração entre sistemas cloud e Mainframe.<br>
 <button name="button"> <a href="https://conceicao-peres.github.io/Portfolio-Conceicao" target="_blank">`Portfolio`</a></button>
 <button name="button"> <a href="https://www.linkedin.com/in/conceicao-peres-da-silva" target="_blank">`linkedin`</a></button>
 
@@ -16,7 +18,7 @@
   <img align="center" alt="Consu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Consu-Angular" height="70" width="60" src="https://t4.ftcdn.net/jpg/02/95/03/85/240_F_295038577_yyg6PAw7aePNxEj7noPWr1RCusUTNJCC.jpg">
   <img align="center" alt="Consu-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/226/226777.png">
-  <img align="center" alt="Consu-Python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png">
+  <img align="center" alt="Consu-Python" height="30" width="30" src="https://cdn-iconspng.flaticon.com/128/1822/1822899.png">
 
   <img align="right" alt="Consu-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
 </div>
